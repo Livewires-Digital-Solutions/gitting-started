@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Secrets — never commit these
+.env
+.env.*
+*.pem
+*.key
+
+# Dependencies and logs
+node_modules/
+*.log
