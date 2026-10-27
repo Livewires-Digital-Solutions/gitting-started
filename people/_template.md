@@ -1,4 +1,4 @@
 # Your Name
 
-- **Role:** Intern
-- **GitHub:** [@your-handle](https://github.com/your-handle)
+- **Role:** Software Developer
+- **GitHub:** [Sandy-Dev-Hub](https://github.com/Sandy-Dev-Hub)
